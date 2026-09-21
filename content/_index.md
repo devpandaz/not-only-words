@@ -1,7 +1,7 @@
 +++
-title = "Home"
+title = "About"
 menu = "main"
-weight = 1
+weight = 2
 +++
 
 > 雷鳴や  
