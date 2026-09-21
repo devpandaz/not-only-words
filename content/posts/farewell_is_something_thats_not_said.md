@@ -41,3 +41,7 @@ To you, during summer's end
 > 夏探し  
 > The one with the voice that's hard to hear  
 > is looking for summer
+
+---
+
+Tears, and the speed of youth. 
