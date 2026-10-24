@@ -4,6 +4,8 @@ date = "2026-09-21"
 # description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 +++
 
+# Farewell is something that's not said
+
 > 金魚鉢  
 > 割れて流れる  
 > もののあり  

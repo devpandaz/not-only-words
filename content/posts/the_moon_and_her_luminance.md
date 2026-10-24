@@ -1,10 +1,10 @@
 +++
-title = "The moon and her luminance"
+title = "The Moon and Her Luminance"
 date = "2026-09-25"
 # description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 +++
 
-# The moon and her luminance
+# The Moon and Her Luminance
 
 > 彼女が眩しくて、月も星も霞んで見えるよ。
 

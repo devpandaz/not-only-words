@@ -10,7 +10,3 @@ weight = 2
 
 **A THUNDEROUS ROAR**  
 **WORDS EXIST FOR THE SAKE OF EXPRESSION**
-   
----
-
-*But it's more than just words.*
