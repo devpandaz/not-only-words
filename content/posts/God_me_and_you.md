@@ -55,4 +55,4 @@ But God is good.
 > 
 > **Psalm 16:11**
 
-In the Lord's almighty name I give thanks and pray, Amen. 
+In the Lord's Almighty Name I give thanks and pray, Amen. 
