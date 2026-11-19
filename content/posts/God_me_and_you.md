@@ -1,6 +1,7 @@
 +++
 title = "God, Me, and You"
 date = "2026-10-24"
+draft = true
 +++
 
 # God, Me, and You

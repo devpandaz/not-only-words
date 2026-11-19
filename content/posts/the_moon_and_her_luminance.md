@@ -2,6 +2,7 @@
 title = "The Moon and Her Luminance"
 date = "2026-09-25"
 # description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+draft = true
 +++
 
 # The Moon and Her Luminance

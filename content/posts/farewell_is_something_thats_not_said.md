@@ -2,6 +2,7 @@
 title = "Farewell is something that's not said"
 date = "2026-09-21"
 # description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+draft = true
 +++
 
 # Farewell is something that's not said
